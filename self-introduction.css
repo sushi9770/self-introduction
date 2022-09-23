@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+    color:white;
+    width: 500px;
+    margin: 0 auto;
+  }
+  li {
+    margin: 30px;
+  }
+  a {
+    font-weight: bold;
+  }
